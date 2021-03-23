@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "fname": "Alex",
+      "lname": "Ahmed",
+      "role": "A"
+    },
+    {
+      "fname": "Husen",
+      "lname": "Ahmed",
+      "role": "A"
+    },
+    {
+      "fname": "Robi",
+      "lname": "Willy",
+      "role": "A"
+    },
+    {
+      "fname": "Aska",
+      "lname": "Ihsan",
+      "role": "B"
+    }
+  ]
+}
