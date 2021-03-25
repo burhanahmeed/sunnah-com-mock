@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "username: "guest",
+      "username": "guest",
       "permissions": [
         {
           "manage_users": true,
