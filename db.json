@@ -9,6 +9,16 @@
           "queues": ["global", "secondary"]
         }
       ]
+    },
+    {
+      "username": "guest",
+      "permissions": [
+        {
+          "manage_users": true,
+          "view_archive": true,
+          "queues": ["global", "secondary"]
+        }
+      ]
     }
   ],
   "users1": [
