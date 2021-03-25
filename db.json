@@ -11,11 +11,11 @@
       ]
     },
     {
-      "username": "guest",
+      "username": "guest1",
       "permissions": [
         {
           "manage_users": true,
-          "view_archive": true,
+          "view_archive": false,
           "queues": ["global", "secondary"]
         }
       ]
