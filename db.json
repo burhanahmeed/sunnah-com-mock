@@ -10,5 +10,37 @@
         }
       ]
     }
+  ],
+  "users1": [
+    {
+      "username": "guestname",
+      "permissions": [
+        {
+          "manage_users": true,
+          "view_archive": true,
+          "queues": ["global", "secondary"]
+        }
+      ]
+    },
+    {
+      "username": "aldi",
+      "permissions": [
+        {
+          "manage_users": true,
+          "view_archive": true,
+          "queues": ["secondary"]
+        }
+      ]
+    },
+    {
+      "username": "ahmed",
+      "permissions": [
+        {
+          "manage_users": false,
+          "view_archive": true,
+          "queues": ["global", "secondary"]
+        }
+      ]
+    }
   ]
 }
