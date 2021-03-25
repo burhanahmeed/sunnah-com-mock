@@ -1,24 +1,14 @@
 {
   "users": [
     {
-      "fname": "Alex",
-      "lname": "Ahmed",
-      "role": "A"
-    },
-    {
-      "fname": "Husen",
-      "lname": "Ahmed",
-      "role": "A"
-    },
-    {
-      "fname": "Robi",
-      "lname": "Willy",
-      "role": "A"
-    },
-    {
-      "fname": "Aska",
-      "lname": "Ihsan",
-      "role": "B"
+      "username: "guest",
+      "permissions": [
+        {
+          "manage_users": true,
+          "view_archive": true,
+          "queues": ["global", "secondary"]
+        }
+      ]
     }
   ]
 }
