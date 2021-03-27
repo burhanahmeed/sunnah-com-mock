@@ -2,55 +2,45 @@
   "users": [
     {
       "username": "guest",
-      "permissions": [
-        {
+      "permissions": {
           "manage_users": true,
           "view_archive": true,
           "queues": ["global", "secondary"]
         }
-      ]
     },
     {
       "username": "guest1",
-      "permissions": [
-        {
+      "permissions": {
           "manage_users": true,
           "view_archive": false,
           "queues": ["global", "secondary"]
         }
-      ]
     }
   ],
   "users1": [
     {
       "username": "guestname",
-      "permissions": [
-        {
+      "permissions": {
           "manage_users": true,
           "view_archive": true,
           "queues": ["global", "secondary"]
         }
-      ]
     },
     {
       "username": "aldi",
-      "permissions": [
-        {
+      "permissions": {
           "manage_users": true,
           "view_archive": true,
           "queues": ["secondary"]
         }
-      ]
     },
     {
       "username": "ahmed",
-      "permissions": [
-        {
+      "permissions": {
           "manage_users": false,
           "view_archive": true,
           "queues": ["global", "secondary"]
         }
-      ]
     }
   ]
 }
